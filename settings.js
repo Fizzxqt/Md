@@ -11,11 +11,11 @@
 
   // Free Apikey
   global.APIs = {
-  riy: 'https://api-riychdwayne.herokuapp.com',
+  lolhuman : 'https://api.lolhuman.xyz',
   }
   
   global.APIKeys = {
-  'https://api-riychdwayne.herokuapp.com': 'RiyGanz',
+  'https://api.lolhuman.xyz': 'daceb11e0b4fe57d9459ce7a',
   }
 
   // Setting Owner
